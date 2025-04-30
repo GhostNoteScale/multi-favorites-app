@@ -1,0 +1,1 @@
+ここに glide-preview.png / safari-share.png などを配置
